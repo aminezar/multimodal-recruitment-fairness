@@ -1,0 +1,25 @@
+# Never commit input profiles, biographies, embeddings, weights or artifacts.
+/data/
+*.npy
+*.npz
+*.pickle
+*.pkl
+*.pt
+*.pth
+*.h5
+*.hdf5
+*.ckpt
+*.safetensors
+*.pdf
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.idea/
+.vscode/
+.DS_Store
+.pytest_cache/
+.mplconfig/

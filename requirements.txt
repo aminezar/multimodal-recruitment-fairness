@@ -1,0 +1,12 @@
+# Thesis source imports plus static chart generation. These are not original
+# training-environment pins; see requirements-tested.txt for the smoke-test env.
+numpy
+pandas
+scikit-learn
+torch
+matplotlib
+# Only needed by notebooks/prep/encode_bios.ipynb (model download not tested).
+transformers
+# Notebook format validation and notebook UI.
+nbformat
+jupyterlab

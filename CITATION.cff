@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the bachelor’s thesis when referencing this implementation or its results. Cite the upstream FairCVtest, SensitiveNets and Bias in Bios work separately."
+title: "Benchmarking Bias and Fairness in Multimodal AI Recruitment"
+type: software
+authors:
+  - family-names: Zarouali
+    given-names: Amine Mohamed
+preferred-citation:
+  type: thesis
+  title: "Benchmarking Bias and Fairness in Multimodal AI Recruitment"
+  authors:
+    - family-names: Zarouali
+      given-names: Amine Mohamed
+  year: 2026
+  month: 8
+  institution:
+    name: "Vrije Universiteit Brussel"
+  thesis-type: "Bachelor’s thesis"
